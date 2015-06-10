@@ -1,0 +1,65 @@
+/* JSON file databank students */
+
+[
+  {
+    "iklNr": 100,
+    "rrNr": 84050645123,
+    "familieNaam": "Peeters",
+    "voorNaam": "Peter",
+    "adres": "Woonstraat 1 2222 Woonst",
+    "email": "mail@mij.be",
+    "telNr": "0486886688",
+    "foto": "noimage.jpg",
+    "opleiding": [
+      {
+        "oplCode": 1,
+        "oplNaam": "Dromen",
+        "beschrijving": "dromen over alles...",
+        "duurtijd": 12,
+        "begin": 20150901,
+        "eind": 20160901,
+        "geslaagd": false
+      },
+      {
+        "oplCode": 3,
+        "oplNaam": "Lachen",
+        "beschrijving": "hihi haha hehe",
+        "duurtijd": 12,
+        "begin": 20140901,
+        "eind": 20150901,
+        "geslaagd": true
+      }
+    ]
+  },
+
+  {
+    "iklNr": 101,
+    "rrNr": 88031511132,
+    "familieNaam": "Franssen",
+    "voorNaam": "Frans",
+    "adres": "Huisstraat 1 2222 Huis",
+    "email": "postduif@mij.be",
+    "telNr": "0492665544",
+    "foto": "noimage.jpg",
+    "opleiding": [
+      {
+        "oplCode": 1,
+        "oplNaam": "Dromen",
+        "beschrijving": "dromen over alles...",
+        "duurtijd": 12,
+        "begin": 20150901,
+        "eind": 20160901,
+        "geslaagd": false
+      },
+      {
+        "oplCode": 2,
+        "oplNaam": "Zingen onder de douche",
+        "beschrijving": "zoeken naar de juiste akoestiek",
+        "duurtijd": 12,
+        "begin": 20140901,
+        "eind": 20150901,
+        "geslaagd": true
+      }
+    ]
+  }
+]
